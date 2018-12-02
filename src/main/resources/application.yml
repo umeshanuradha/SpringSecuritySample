@@ -1,0 +1,8 @@
+server:
+  port: 8182
+
+spring.datasource:
+    url: jdbc:mysql://localhost:3306/umeshdb
+    username: root
+    password: drowssap
+    driverClassName: com.mysql.jdbc.Driver
